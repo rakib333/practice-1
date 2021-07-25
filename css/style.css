@@ -1,0 +1,20 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.header-bg {
+    background-color: #a0a3ddd4;
+}
+.menu li {
+    padding: 15px 15px;
+}
+.menu li:hover  {
+    background-color: burlywood;
+    border-radius: 10px;
+    transition: all 2s ease-in-out;
+}
